@@ -1,6 +1,6 @@
 {
-  "name": "expect-client",
-  "homepage": "https://callback-kings.github.io/expect-client",
+  "name": "expect-client-personal",
+  "homepage": "https://github.com/shanejames90/expect-client-personal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
